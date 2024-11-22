@@ -1,6 +1,6 @@
 {
-   "owner": "6285887776722",
-   "owner_name": "Wildan Izzudin",
+   "owner": "34612538080",
+   "owner_name": "BK9",
    "database": "data",
    "limit": 10,
    "limit_game": 50,
@@ -16,7 +16,7 @@
    "permanent_threshold": 3,
    "notify_threshold": 4,
    "banned_threshold": 5,
-   "blocks": ["994", "221", "263"],
+   "blocks": ["994", "221", "1"],
    "evaluate_chars": ["=>", "~>", "<", ">", "$"],
    "pairing": {
       "state": true,
