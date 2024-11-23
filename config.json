@@ -1,7 +1,7 @@
 {
    "owner": "34612538080",
    "owner_name": "BK9",
-   "database": "data",
+   "database": "mongo",
    "limit": 10,
    "limit_game": 50,
    "multiplier": 89,
